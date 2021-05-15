@@ -1,8 +1,7 @@
 from logging import DEBUG
 from flask import Flask
-from flask import render_template
+from flask import render_template, url_for
 from flask import request
-import logging
 
 from flask.helpers import url_for
 

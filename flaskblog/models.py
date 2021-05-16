@@ -1,4 +1,4 @@
-from flaskblog.bootsrap import db
+from flaskblog.bootstrap import db
 from datetime import datetime
 
 
